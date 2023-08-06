@@ -5,4 +5,4 @@ Clone of CodePen editor using React and Material UI
 
 **Screenshot**
 
-!(https://github.com/jjatin003/JSON_FORM/blob/main/result_of_clone.jpg)
+!(https://github.com/jjatin003/CodePen-Clone/blob/main/result_of_clone.jpg)
